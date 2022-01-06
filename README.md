@@ -5,5 +5,5 @@
 #HTML,CSS,JAVASCRIPT
 
 
-#Live demo link: https://github.com/zluo43/techdegree_p1.git
+#Live demo link: https://zluo43.github.io/techdegree_p1/index.html
  
